@@ -11,6 +11,7 @@ Algorithms & Data Structures
 https://www.coursera.org/learn/algorithms-part1
 https://www.coursera.org/learn/algorithms-part2
 https://www.coursera.org/specializations/data-structures-algorithms
+https://algs4.cs.princeton.edu/home/
 https://www.codility.com/
 https://www.hackerrank.com/
 https://leetcode.com/
